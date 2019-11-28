@@ -1,0 +1,15 @@
+{
+      "flights": [
+                              
+                              {
+                                  "code": "ER39rp",
+                                  "price": 954,
+                                  "origin": "MUA",
+                                  "destination": "SFO",
+                                  "departureDate": "2015/02/12",
+                                  "planeType": "Boeing 777",
+                                  "airlineName": "United",
+                                  "emptySeats": 23
+                              }
+                          ]
+                        } 
